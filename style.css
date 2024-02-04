@@ -8,5 +8,10 @@ body{
     background-image: url(./view-adorable-3d-cats.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    font-family: 'Acme', sans-serif;
 }
 
+.texts{
+    color: #000;
+
+}
