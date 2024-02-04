@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(./view-adorable-3d-cats.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
