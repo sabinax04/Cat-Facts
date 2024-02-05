@@ -12,5 +12,52 @@ body{
 }
 
 .texts{
-    color: ;
+    color: #40A2E3;
+}
+
+.common{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.btn{
+    padding: 20px 50px;
+    border-radius: 50px;
+    border: 0.5px solid #40A2E3;
+    background-color: transparent;
+    color: #40A2E3;
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+    
+}
+
+.btn:hover{
+    padding: 25px 55px;
+    font-size: 30px;
+}
+
+.newText{
+    color: #40A2E3;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 750px ;
+    font-size: 25px;
+}
+
+.first{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h3{
+    font-size: 20px;
 }
